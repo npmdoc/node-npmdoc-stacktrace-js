@@ -1,6 +1,7 @@
 # npmdoc-stacktrace-js
 
-api documentation for  [stacktrace-js (v1.3.1)](https://www.stacktracejs.com)  [![npm package](https://img.shields.io/npm/v/npmdoc-stacktrace-js.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-stacktrace-js) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-stacktrace-js.svg)](https://travis-ci.org/npmdoc/node-npmdoc-stacktrace-js)
+#### basic api documentation for  [stacktrace-js (v1.3.1)](https://www.stacktracejs.com)  [![npm package](https://img.shields.io/npm/v/npmdoc-stacktrace-js.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-stacktrace-js) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-stacktrace-js.svg)](https://travis-ci.org/npmdoc/node-npmdoc-stacktrace-js)
+
 #### Framework-agnostic, micro-library for getting stack traces in all environments
 
 [![NPM](https://nodei.co/npm/stacktrace-js.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/stacktrace-js)
@@ -104,7 +105,8 @@ api documentation for  [stacktrace-js (v1.3.1)](https://www.stacktracejs.com)  [
         "prepublish": "gulp dist",
         "test": "gulp test"
     },
-    "version": "1.3.1"
+    "version": "1.3.1",
+    "bin": {}
 }
 ```
 
